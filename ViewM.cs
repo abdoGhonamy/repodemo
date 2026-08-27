@@ -1,1 +1,1 @@
-class Vmasdfadf
+class
